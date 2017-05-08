@@ -21,7 +21,7 @@ un montón de una 1 carta, seguido de otro de 2 cartas, luego uno de 3, y así s
 al de k cartas. [Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema1.pdf) 
 
 
-##### Solucion 
+#### Solucion 
 
 Lo primero es declarar 2 arreglos uno para que almacene el array que debe cumplir la 
 condicion expuesta en el problema (n = 1 + 2 + 3 + … + k)  y otro para almacenar los valores 
@@ -72,7 +72,7 @@ def check_zeros(c):
             c.remove(0)
 ```
 
-##### Resultado
+#### Resultado
 
 ![Imgur](http://i.imgur.com/r5TpN1o.png)
 
@@ -94,7 +94,7 @@ los cuales tienen la misma estructura:
 [Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema2.pdf) 
 
 
-##### Solucion 
+#### Solucion 
 
 Para este problema creamos 2 arrays con cada una de las cadenas recibidas, así:
 
@@ -179,7 +179,7 @@ def check_is_equal(n1, n2):
     return is_equal
 ```
 
-##### Resultado
+#### Resultado
 
 ![Imgur](http://i.imgur.com/1HH5MXE.png)
 
@@ -200,7 +200,7 @@ que la cantidad máxima de símbolos es de 128.
 [Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema3.pdf) 
 
 
-##### Solución 
+#### Solución 
 
 
 Debemos verificar que la cadena cumpla las condiciones del problema, verificamos el tamaño y que solamente contenta
@@ -237,7 +237,7 @@ def is_balanced(p0):
         return False
 ```
 
-##### Resultado
+#### Resultado
 
 ![3](http://i.imgur.com/BOTBUaH.png)
 
