@@ -3,7 +3,7 @@ python-programming-problems
 
 Resolución de problemas de programación utilizando Python.
 
-Los enunciados de los problemas se encuentran en la carpeta [enunciados]() y soluciones su respectiva [carpeta]().
+Los enunciados de los problemas se encuentran en la carpeta [enunciados](https://github.com/juliocesar-io/python-programming-problems/tree/master/enunciados) y soluciones su respectiva [carpeta](https://github.com/juliocesar-io/python-programming-problems/tree/master/soluciones).
 
 
 ### Problema 1
@@ -18,7 +18,7 @@ con estas cartas se forma un nuevo montón que se coloca al final de todos. En e
 que solo tengan una carta desaparecen.
 Tu programa deberá llevar a cabo la reorganización descrita cuantas veces sea necesario hasta que haya
 un montón de una 1 carta, seguido de otro de 2 cartas, luego uno de 3, y así sucesivamente hasta llegar
-al de k cartas. [Ver problema.]() 
+al de k cartas. [Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema1.pdf) 
 
 
 ##### Solucion 
@@ -77,7 +77,7 @@ def check_zeros(c):
 ![Imgur](http://i.imgur.com/r5TpN1o.png)
 
 
-Ver [script final]()
+Ver [script final](https://github.com/juliocesar-io/python-programming-problems/blob/master/soluciones/problema1.py)
 
 
 ### Problema 2
@@ -91,7 +91,7 @@ los cuales tienen la misma estructura:
 
 ![1](http://i.imgur.com/TbnaCdJ.png)
 
-[Ver problema.]() 
+[Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema2.pdf) 
 
 
 ##### Solucion 
@@ -183,7 +183,7 @@ def check_is_equal(n1, n2):
 
 ![Imgur](http://i.imgur.com/1HH5MXE.png)
 
-Ver [script final]()
+Ver [script final](https://github.com/juliocesar-io/python-programming-problems/blob/master/soluciones/problema2.py)
 
 
 ### Problema 3
@@ -197,7 +197,7 @@ se considera balanceada si:
 3. Si las cadenas A y B son correctas, AB es correcta y también BA.
 Escribe un programa que pida una cadena de este tipo y compruebe si está o no balanceada. Considera
 que la cantidad máxima de símbolos es de 128.
-[Ver problema.]() 
+[Ver problema.](https://github.com/juliocesar-io/python-programming-problems/blob/master/enunciados/problema3.pdf) 
 
 
 ##### Solución 
@@ -241,4 +241,4 @@ def is_balanced(p0):
 
 ![3](http://i.imgur.com/BOTBUaH.png)
 
-Ver [script final]()
+Ver [script final](https://github.com/juliocesar-io/python-programming-problems/blob/master/soluciones/problema3.py)
